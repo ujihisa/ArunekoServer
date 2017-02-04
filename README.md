@@ -8,7 +8,7 @@ mc.aruneko.net
 ## Forge Version
 [12.18.3.2185](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.10.2.html)
 
-(12.18.3.2185 or hier)
+(12.18.3.2185 or higher)
 
 ## Mod List
 
